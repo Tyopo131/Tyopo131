@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on WAY too many projects.
-- 😄 Pronouns: he/him
-- 🌱 I’m currently learning Python and C++
+🔭 I’m currently working on WAY too many projects.
+
+😄 Pronouns: he/him
+
+🌱 I’m currently learning Python and C++
 
 🗝️ Commit signing:
 As of Tuesday, 11 February, 2025, I sign all of my commits. If there are any exceptions on certain dates, they will be reported here.
