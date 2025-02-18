@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on WAY too many projects only private ones though.
+🔭 I’m currently working on WAY too many projects, only private ones though.
 
 😄 Pronouns: he/him
 
