@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Python and C++. My C++ skills are currently better than my Python skills.
 
 🗝️ Commit signing:
-As of Tuesday, 11 February, 2025, I sign all of my commits. If there are any exceptions on certain dates, they will be reported here.
+As of Tuesday, 11 February, 2025, I sign all of my commits. If there are any exceptions on certain dates, they will be reported here:
+- 1st of March, 2025: 1 unsigned commit
