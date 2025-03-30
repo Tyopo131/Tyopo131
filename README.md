@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 🗝️ Commit signing:
 As of Tuesday, 11 February, 2025, I sign all of my commits. If there are any exceptions on certain dates, they will be reported here:
 - 1st of March, 2025: 1 unsigned commit
+- 30th of March, 2025: 7 unsigned commits
